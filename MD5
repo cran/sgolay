@@ -1,8 +1,10 @@
-f842eba72f97a8f10c231e87376d8396 *DESCRIPTION
+6406c7588e05d3f517256eaf225f8cdc *DESCRIPTION
 3c5a06973cb595880ed9c3b39f4581f1 *NAMESPACE
-3c4ec7a175d7afa7bc5793e28493c50d *NEWS.md
+fc46b36aed2544d12e2975eac209d69a *NEWS.md
 f872341c722209d89551bf58ef143afc *R/sgolayfilt.R
+faea272108ecf2800e24c97dc8641fea *README.md
 4dd1d2ff0e13d435c722a3ad334e60f8 *inst/tests/runit.sgolayfilt.R
+23f516df568892664b7be69a05f70808 *man/figures/README-unnamed-chunk-2-1.png
 2c45c70bf82dc03941d852f3079e0e1c *man/reexports.Rd
 42f24aabec783b2c9e6db1b5df6d5668 *man/sgolayfilt.Rd
 2fa4c7011c2bc0f7449ae151d5cc44ae *src/Makevars
@@ -11,5 +13,5 @@ f872341c722209d89551bf58ef143afc *R/sgolayfilt.R
 f4caffea793f6b6154ddb86e727083b1 *src/pad_and_convolve.c
 a399792b8f5f9d09ccfc3ed57d238b99 *src/sgolay.h
 624eae0504053642f4f5a286e120b3db *src/sgolay_init.c
-9469c5318c4d129c11966d8324650866 *src/stats_filter.c
+8b4d1aa2b88430b4d11958bf4fb82d57 *src/stats_filter.c
 98cae3cce3ab3e6935530526be377ea0 *tests/runit.R
